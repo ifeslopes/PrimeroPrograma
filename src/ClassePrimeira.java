@@ -186,7 +186,7 @@ public class ClassePrimeira extends javax.swing.JFrame {
             multi = 0 - multi;
         }
 
-        tela.setText("Ovalor da mutiplicação de " + re + " X " + re1 + " = " + multi + " resto " + i1);
+        tela.setText("Ovalor da mutiplicação de " + re + " / " + re1 + " = " + multi + " resto " + i1);
         num.setText("");
         num1.setText("");
         c = 0;
